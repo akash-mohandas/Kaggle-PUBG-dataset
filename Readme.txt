@@ -1,0 +1,2 @@
+The report comtains complete [reliminary data analysis and data featuring/engineering to eliminate few features and add few that made it easier for the model to predict. The final mean absolute error on test data obtained after submission to Kaggle is 0.0249.
+The kernel on Kaggle is: https://www.kaggle.com/akashmohandas/kernel491e927686?scriptVersionId=8155338
